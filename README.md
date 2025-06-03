@@ -1,0 +1,1 @@
+# pydjinni-project-template Swift package
