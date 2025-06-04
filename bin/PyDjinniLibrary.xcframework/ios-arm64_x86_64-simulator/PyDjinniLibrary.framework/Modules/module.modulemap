@@ -1,0 +1,6 @@
+framework module PyDjinniLibrary {
+  umbrella header "PyDjinniLibrary.h"
+  export *
+
+  module * { export * }
+}
